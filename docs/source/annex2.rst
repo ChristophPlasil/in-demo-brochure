@@ -18,3 +18,5 @@ The following values should be input for the position of the GPS antenna :
    * B = the distance from the GPS antenna to the stern.
    * C = the distance from the GPS antenna to the port side (left side).
    * D = the distance from the GPS antenna to the starboard side (right side).
+   
+   Hello Jean Noel I really like this, let's see what will happen to my edit (of course it shall not be accepted). :-)
